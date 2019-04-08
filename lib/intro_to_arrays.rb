@@ -8,13 +8,13 @@ def array_with_two_elements
 end
 
 def first_element
-  instantiate_new_array.index(
+  famous_cats.index("John")
 end
 
 def third_element.index
-  instantiate_new_array.index("Baby")
+  instantiate_new_array.index("taylor swift")
 end
 
 def last_element
-  instantiate_new_array[-1]
+  instantiate_new_array[-2]
 end
