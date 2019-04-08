@@ -23,6 +23,8 @@ def last_element(my_last_element)
 end
 
 def first_element_with_array_methods
+  @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  
 end
 
 def last_element_with_array_methods
