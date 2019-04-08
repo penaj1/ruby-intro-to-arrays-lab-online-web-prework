@@ -8,7 +8,7 @@ def array_with_two_elements
 end
 
 def first_element(my_first_element)
-  famous_cats.index("John")
+  famous_cats.index("John"
 end
 
 def third_element.index
