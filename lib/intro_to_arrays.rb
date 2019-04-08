@@ -7,8 +7,8 @@ def array_with_two_elements
   instantiate_new_array = [1, "Janice"]
 end
 
-def first_element.index
-  instantiate_new_array.index("Janice")
+def my_first_element
+  instantiate_new_array.index(
 end
 
 def third_element.index
