@@ -27,9 +27,9 @@ def first_element_with_array_methods(first_country)
   first_country.first
 end
 
-def last_element_with_array_methods
+def last_element_with_array_methods(last_country)
    @south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  first_country.last
+  last_country.last
 end
 
 def length_of_array
