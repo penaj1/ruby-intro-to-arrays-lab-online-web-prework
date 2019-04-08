@@ -7,7 +7,7 @@ def array_with_two_elements
   instantiate_new_array = [1, "Janice"]
 end
 
-def first_element
+def first_element(my)
   famous_cats.index("John")
 end
 
