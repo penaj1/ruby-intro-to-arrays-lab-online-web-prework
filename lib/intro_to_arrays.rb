@@ -22,4 +22,7 @@ def last_element(my_last_element)
    my_third_element = @taylor_swift[-1]
 end
 
-def 
+def first_element_with_array_methods
+end
+
+def
