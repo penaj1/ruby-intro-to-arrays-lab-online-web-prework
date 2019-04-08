@@ -14,9 +14,10 @@ end
 
 def third_element(my_third_element)
   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
-   my_third_element.first
+   my_third_element = @taylor_swift
 end
 
-def last_element
-  instantiate_new_array[-2]
+def last_element(my_last_element)
+   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+   my_third_element = @taylor_swift
 end
