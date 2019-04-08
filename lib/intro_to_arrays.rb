@@ -8,4 +8,12 @@ def array_with_two_elements
 end
 
 def first_element
-  instantiate_new_array
+  instantiate_new_array[0]
+end
+
+def third_element
+  instantiate_new_array[2]
+end
+
+def last_element
+  
