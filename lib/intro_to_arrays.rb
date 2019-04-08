@@ -13,7 +13,7 @@ def first_element(my_first_element)
 end
 
 def third_element(my_third_element)
-  instantiate_new_array.index("taylor swift")
+  
 end
 
 def last_element
