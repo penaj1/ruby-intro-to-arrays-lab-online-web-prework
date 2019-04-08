@@ -16,5 +16,5 @@ def third_element
 end
 
 def last_element
-  instantiate_new_array.last
+  instantiate_new_array[-1]
 end
