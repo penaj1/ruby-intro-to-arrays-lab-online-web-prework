@@ -8,11 +8,11 @@ def array_with_two_elements
 end
 
 def first_element
-  instantiate_new_array.index()
+  instantiate_new_array.index("Janice")
 end
 
 def third_element
-  instantiate_new_array[2]
+  instantiate_new_array.index("Baby")
 end
 
 def last_element
