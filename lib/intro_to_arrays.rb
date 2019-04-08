@@ -8,7 +8,7 @@ def array_with_two_elements
 end
 
 def first_element
-  instantiate_new_array[0]
+  instantiate_new_array.index()
 end
 
 def third_element
